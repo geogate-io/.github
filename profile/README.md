@@ -4,7 +4,7 @@ The GeoGATE-IO GitHub organization is dedicated to developing a state-of-art set
 
 **In situ visualization:** Allowing for the real-time visualization/instrumentation of model outputs as they are being produced, providing immediate insights.
 
-**Bridging Earth System Models with cutting-edge AI/ML tools:** Facilitating the application of advanced artificial intelligence and machine learning techniques to effectively analyze and extract valuable information from the immense Earth system data and provide interface to couple AI/ML models with prognostic Earth System Model components.
+**Bridging Earth System Models and cutting-edge AI/ML tools:** Facilitating the application of advanced artificial intelligence and machine learning techniques to effectively analyze and extract valuable information from the immense Earth system data and provide interface to couple AI/ML models with prognostic Earth System Model components.
 
 Essentially, GeoGate-IO aims to provide researchers with the capabilities to efficiently process, interact, visualize, and learn from the vast and complex data produced by Earth System Models, pushing the boundaries of Earth science research.
 
